@@ -1,0 +1,14 @@
+E:\Codegym\c# start\Doinhietdo\obj\Debug\net8.0\Doinhietdo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\Doinhietdo\obj\Debug\net8.0\Doinhietdo.AssemblyInfoInputs.cache
+E:\Codegym\c# start\Doinhietdo\obj\Debug\net8.0\Doinhietdo.AssemblyInfo.cs
+E:\Codegym\c# start\Doinhietdo\obj\Debug\net8.0\Doinhietdo.csproj.CoreCompileInputs.cache
+E:\Codegym\c# start\Doinhietdo\bin\Debug\net8.0\Doinhietdo.exe
+E:\Codegym\c# start\Doinhietdo\bin\Debug\net8.0\Doinhietdo.deps.json
+E:\Codegym\c# start\Doinhietdo\bin\Debug\net8.0\Doinhietdo.runtimeconfig.json
+E:\Codegym\c# start\Doinhietdo\bin\Debug\net8.0\Doinhietdo.dll
+E:\Codegym\c# start\Doinhietdo\bin\Debug\net8.0\Doinhietdo.pdb
+E:\Codegym\c# start\Doinhietdo\obj\Debug\net8.0\Doinhietdo.dll
+E:\Codegym\c# start\Doinhietdo\obj\Debug\net8.0\refint\Doinhietdo.dll
+E:\Codegym\c# start\Doinhietdo\obj\Debug\net8.0\Doinhietdo.pdb
+E:\Codegym\c# start\Doinhietdo\obj\Debug\net8.0\Doinhietdo.genruntimeconfig.cache
+E:\Codegym\c# start\Doinhietdo\obj\Debug\net8.0\ref\Doinhietdo.dll

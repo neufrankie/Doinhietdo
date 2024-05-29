@@ -1,0 +1,4 @@
+1. Khởi tạo biến max với giá trị của phần tử đầu tiên trong danh sách
+2. Duyệt qua từng phần tử trong danh sách bắt đầu từ phần tử thứ hai:
+   a. Nếu phần tử hiện tại lớn hơn max, cập nhật giá trị của max bằng phần tử hiện tại
+3. Kết thúc duyệt, giá trị của max là số lớn nhất trong danh sách
